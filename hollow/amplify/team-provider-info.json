@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hollow-dev-15324-authRole",
+            "UnauthRoleArn": "arn:aws:iam::165255562209:role/amplify-hollow-dev-15324-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::165255562209:role/amplify-hollow-dev-15324-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-hollow-dev-15324-deployment",
+            "UnauthRoleName": "amplify-hollow-dev-15324-unauthRole",
+            "StackName": "amplify-hollow-dev-15324",
+            "StackId": "arn:aws:cloudformation:us-east-1:165255562209:stack/amplify-hollow-dev-15324/3ebd9fa0-5e19-11eb-869d-12ab197e9ef5",
+            "AmplifyAppId": "d1gg6gvo3tp97k"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1gg6gvo3tp97k",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
